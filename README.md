@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Emilio Bravo  
 
-<!--
-**bravemilio15/bravemilio15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software apasionado por el **desarrollo web **.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- 💻 Frontend: React, Vite, NextJs
+- ⚙️ Backend: Node.js, Express, MongoDB  
+- ☁️ Cloud: AWS, Docker, Kubernetes  
+
+---
+
+## 📌 Proyectos Destacados
+
+---
+
+## 📫 Contáctame
+- ✉️ Email: emilioabh96@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/Emilio Andres Bravo Herrera](https://www.linkedin.com/in/emilio-andres-bravo-herrera-44aba434a/)  
+
