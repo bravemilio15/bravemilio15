@@ -48,7 +48,7 @@ Passionate about technology, innovation, and building distributed solutions.
 
 ## 📫 Contact  
 
-- 📧 Email: youremail@example.com  
+- 📧 Email: emilioabh96@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/Emilio Andres Bravo Herrera](https://www.linkedin.com/in/emilio-andres-bravo-herrera-44aba434a/)  
 - 🐙 GitHub: [@bravemilio15](https://github.com/bravemilio15)  
 
