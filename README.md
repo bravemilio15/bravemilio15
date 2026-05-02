@@ -32,12 +32,16 @@ Software & AI Developer focused on building intelligent solutions and full-stack
 
 ---
 
-## 📈 Engineering Metrics
+## 🚀 Featured Work
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bravemilio15/bravemilio15/main/metrics-stats.svg" width="100%" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/bravemilio15/bravemilio15/main/metrics-achievements.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/bravemilio15/bravemilio15/main/metrics-habits.svg" width="48%" />
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Dashboard Fiscal Loja](https://github.com/bravemilio15/dashboard-fiscal-loja)** | Fiscal analysis dashboard for Loja (2020-2024). | `Python` · `Data Analysis` |
+| **[Parallel Fractals](https://github.com/bravemilio15/Fractal-Programacion-Paralela)** | Parallel programming implementation for fractal generation. | `Python` · `Parallelism` |
+| **[Security Network UNL](https://github.com/bravemilio15/Red-UNL-Seguridad)** | Network security and monitoring infrastructure project. | `TypeScript` · `Security` |
+| **[Crypto Simulation](https://github.com/bravemilio15/APE_-Simulaci-n-Conceptual-de-Intercambio-de-Claves-Diffie-Hellman-y-An-lisis-de-Ataque-MITM)** | Conceptual simulation of Diffie-Hellman & MITM analysis. | `TypeScript` · `Cryptography` |
+
 </div>
 
 ---
