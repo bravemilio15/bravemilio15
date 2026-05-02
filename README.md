@@ -29,150 +29,92 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🍱 Bento Dashboard
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bravemilio15&layout=compact&theme=tokyonight&hide_border=true&title_color=6AD3F7&text_color=fff&bg_color=0d1117&langs_count=8)](https://github.com/bravemilio15)
-
-</div>
-
-```typescript
-const emilio = {
-  role     : "Software Developer",
-  location : "Loja, Ecuador 🇪🇨",
-  contact  : "emilioabh96@gmail.com",
-
-  frontend : ["Flutter", "Angular", "React", "Next.js"],
-  backend  : ["Node.js", "Python", "REST APIs"],
-  databases: ["Firebase", "Supabase", "MongoDB"],
-  tools    : ["Git", "Docker"],
-  cloud    : ["AWS (Cloud Foundations)", "Kubernetes"],
-  ai       : ["GitHub Copilot", "Claude"],
-
-  softSkills: ["Teamwork", "Effective Communication", "Problem Solving", "Adaptability", "Critical Thinking"],
-
-  currently: "Working on MediHelp 🔥",
-  learning : "Kubernetes · AWS · React Native 🚀",
-  focus    : "Cloud · AI · Distributed Solutions 🌐"
-};
-```
-
----
-
-## 🔥 Currently Building
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  🏥  MediHelp          ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━░  90%  🟢 Prod   │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👤 About Me</h3>
+      <p>
+        📍 <b>Location:</b> Loja, Ecuador 🇪🇨<br/>
+        💼 <b>Role:</b> Software Developer<br/>
+        🔥 <b>Building:</b> <a href="https://medihelp.lat">MediHelp Healthcare</a><br/>
+        🚀 <b>Focus:</b> Cloud · AI · Distributed Systems
+      </p>
+      <hr/>
+      <h3>🎯 Goals 2026</h3>
+      <ul>
+        <li>Mastering Kubernetes & AWS</li>
+        <li>Scaling MediHelp globally</li>
+        <li>Exploring React Native / Expo</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Activity & Status</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=bravemilio15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=fff" width="100%"/>
+      <br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bravemilio15&theme=tokyonight&hide_border=true&background=0d1117&stroke=6AD3F7&ring=6AD3F7&fire=6AD3F7&currStreakNum=6AD3F7" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Ecosystem
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bravemilio15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=fff&bg_color=0d1117)](https://github.com/bravemilio15)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bravemilio15&theme=tokyonight&hide_border=true&background=0d1117&stroke=6AD3F7&ring=6AD3F7&fire=6AD3F7&currStreakNum=6AD3F7)](https://github.com/bravemilio15)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bravemilio15&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=6AD3F7&line=6AD3F7&point=ffffff)](https://github.com/bravemilio15)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=bravemilio15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/bravemilio15)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend & Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**AI & Productivity**
-
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <b>Mobile & Web</b><br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/><br/>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+    </td>
+    <td align="center" width="25%">
+      <b>Languages</b><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    </td>
+    <td align="center" width="25%">
+      <b>Backend</b><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase"/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+    </td>
+    <td align="center" width="25%">
+      <b>DevOps</b><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Advanced Metrics & Achievements
 
 <div align="center">
-
-| 🏥 MediHelp |
-|:---:|
-| **Sistema Integral de Salud** · `2025–2026` |
-| Plataforma para pacientes y médicos: historial clínico, citas, medicamentos, exámenes y mensajería en tiempo real. Auth segura y notificaciones push. |
-| ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FF9100?style=flat-square&logo=firebase&logoColor=white) |
-| [🌐 medihelp.lat](https://medihelp.lat) |
-
+  <img src="https://raw.githubusercontent.com/bravemilio15/bravemilio15/main/github-metrics.svg" alt="Metrics" width="100%" />
 </div>
 
----
+<br/>
 
-## 🌟 Soft Skills
-
-<div align="center">
-
-| 🤝 Teamwork | 🗣️ Communication | 🧩 Problem Solving | 🔄 Adaptability | 🧠 Critical Thinking |
-|:---:|:---:|:---:|:---:|:---:|
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=bravemilio15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=3" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=bravemilio15&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=6AD3F7&line=6AD3F7&point=ffffff" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -187,5 +129,3 @@ const emilio = {
 *"Passionate about technology, innovation, and building distributed solutions."*
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=002147&height=120&section=footer)
