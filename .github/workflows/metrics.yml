@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule updates (daily)
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing to master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -12,43 +9,39 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # 1. Lenguajes (Imagen Principal - Grande)
+      - name: Languages
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          filename: metrics-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          user: bravemilio15
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Guayaquil
-          
-          # Languages
+          base: ""
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
+          plugin_languages_ignored: html, css
+          plugin_languages_details: lines, percentage
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          
-          # Habits
+          plugin_languages_limit: 8
+
+      # 2. Hábitos y Actividad (Imagen Mediana)
+      - name: Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-habits.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
           plugin_habits: yes
           plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
           plugin_habits_charts: yes
-          config_padding: 0, 5 + 10%
-          
-          # Isocalendar
+          config_timezone: America/Guayaquil
+
+      # 3. Logros y Calendario (Imagen Mediana)
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-achievements.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year

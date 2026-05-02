@@ -29,30 +29,30 @@
 
 ---
 
-## 🚀 Dashboard
+## 🚀 Personal Dashboard
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>👤 About Me</h3>
+    <td width="55%" valign="top">
+      <h3>👤 Profile Overview</h3>
       <p>
         📍 <b>Location:</b> Loja, Ecuador 🇪🇨<br/>
         💼 <b>Role:</b> Software & AI Developer<br/>
         🔥 <b>Building:</b> <a href="https://medihelp.lat">MediHelp Healthcare</a> (AI Enhanced)<br/>
         🚀 <b>Focus:</b> Intelligent Systems · Fullstack Dev · Agentic AI
       </p>
-      <hr/>
-      <h3>🎯 Goals 2026</h3>
+      <br/>
+      <h3>🎯 Key Goals 2026</h3>
       <ul>
         <li>Implementing RAG & LLMs in HealthTech</li>
         <li>Specializing in Agentic Workflows</li>
         <li>Exploring Computer Vision for Medical Data</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Activity & Status</h3>
+    <td width="45%" valign="top">
+      <h3>⚡ Real-time Activity</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=bravemilio15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6AD3F7&text_color=fff" width="100%"/>
-      <br/><br/>
+      <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=bravemilio15&theme=tokyonight&hide_border=true&background=0d1117&stroke=6AD3F7&ring=6AD3F7&fire=6AD3F7&currStreakNum=6AD3F7" width="100%"/>
     </td>
   </tr>
@@ -60,61 +60,66 @@
 
 ---
 
-## 🛠️ Tech Ecosystem
+## 🛠️ Technology Stack
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="padding: 10px;">
       <b>Mobile & Web</b><br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/><br/>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/><br/>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="padding: 10px;">
       <b>Languages</b><br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="padding: 10px;">
       <b>Backend</b><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase"/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase"/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="padding: 10px;">
       <b>AI & Cloud</b><br/><br/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 Advanced Metrics & Achievements
+## 📈 Advanced Developer Insights
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bravemilio15/bravemilio15/main/github-metrics.svg" alt="Metrics" width="100%" />
-</div>
+### 📊 Most Used Languages
+<img src="https://raw.githubusercontent.com/bravemilio15/bravemilio15/main/metrics-languages.svg" width="100%" />
 
 <br/>
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=bravemilio15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=3" width="100%"/>
+    <td width="50%" valign="top">
+      <h3>🕒 Coding Habits</h3>
+      <img src="https://raw.githubusercontent.com/bravemilio15/bravemilio15/main/metrics-habits.svg" width="100%" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=bravemilio15&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=6AD3F7&line=6AD3F7&point=ffffff" width="100%"/>
+    <td width="50%" valign="top">
+      <h3>🏆 Achievements & Activity</h3>
+      <img src="https://raw.githubusercontent.com/bravemilio15/bravemilio15/main/metrics-achievements.svg" width="100%" />
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bravemilio15&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=6AD3F7&line=6AD3F7&point=ffffff" width="100%"/>
+</div>
 
 ---
 
