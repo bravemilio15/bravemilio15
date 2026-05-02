@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1b27,6AD3F7&height=240&section=header&text=Emilio%20Bravo&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20%7C%20Cloud%20%7C%20AI%20%7C%20Web%20%26%20Mobile%20%7C%20Loja%2C%20Ecuador%20%F0%9F%87%AA%F0%9F%87%A8&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=240&amp;section=header&amp;text=Emilio%20Bravo&amp;fontSize=80&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=40&amp;desc=Software%20Developer%20%7C%20Cloud%20%7C%20AI%20%7C%20Web%20%26%20Mobile%20%7C%20Loja%2C%20Ecuador%20%F0%9F%87%AA%F0%9F%87%A8&amp;descAlignY=60&amp;descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9A%80+Software+Developer+%7C+Web+%26+Mobile;%F0%9F%92%BB+Flutter+%C2%B7+Angular+%C2%B7+React+%C2%B7+Next.js;%F0%9F%8F%A5+Working+on+MediHelp+%E2%80%94+Healthcare+Platform;%E2%9A%A1+Learning+Kubernetes+%C2%B7+AWS+%C2%B7+React+Native;%E2%9C%A8+From+design+to+deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=6AD3F7&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=800&amp;lines=%F0%9F%9A%80+Software+Developer+%7C+Web+%26+Mobile;%F0%9F%92%BB+Flutter+%C2%B7+Angular+%C2%B7+React+%C2%B7+Next.js;%F0%9F%8F%A5+Working+on+MediHelp+%E2%80%94+Healthcare+Platform;%E2%9A%A1+Learning+Kubernetes+%C2%B7+AWS+%C2%B7+React+Native;%E2%9C%A8+From+design+to+deployment" alt="Typing SVG" />
 </div>
 
 <br/>
