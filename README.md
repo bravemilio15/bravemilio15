@@ -34,8 +34,10 @@ Software & AI Developer focused on building intelligent solutions and full-stack
 
 ## 📈 Engineering Metrics
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bravemilio15/bravemilio15/main/metrics-languages.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/bravemilio15/bravemilio15/main/metrics-stats.svg" width="100%" />
+  <br/>
   <img src="https://raw.githubusercontent.com/bravemilio15/bravemilio15/main/metrics-achievements.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/bravemilio15/bravemilio15/main/metrics-habits.svg" width="48%" />
 </div>
 
 ---
