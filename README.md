@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=002147&height=250&section=header&text=Emilio%20Bravo&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Cloud%20%7C%20AI%20%7C%20Web%20/%20Mobile&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=002147&height=250&section=header&text=Emilio%20Bravo&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Artificial%20Intelligence%20%7C%20Web%20/%20Mobile&descAlignY=55&descSize=20)
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🍱 Bento Dashboard
+## 🚀 Dashboard
 
 <table width="100%">
   <tr>
@@ -37,16 +37,16 @@
       <h3>👤 About Me</h3>
       <p>
         📍 <b>Location:</b> Loja, Ecuador 🇪🇨<br/>
-        💼 <b>Role:</b> Software Developer<br/>
-        🔥 <b>Building:</b> <a href="https://medihelp.lat">MediHelp Healthcare</a><br/>
-        🚀 <b>Focus:</b> Cloud · AI · Distributed Systems
+        💼 <b>Role:</b> Software & AI Developer<br/>
+        🔥 <b>Building:</b> <a href="https://medihelp.lat">MediHelp Healthcare</a> (AI Enhanced)<br/>
+        🚀 <b>Focus:</b> Intelligent Systems · Fullstack Dev · Agentic AI
       </p>
       <hr/>
       <h3>🎯 Goals 2026</h3>
       <ul>
-        <li>Mastering Kubernetes & AWS</li>
-        <li>Scaling MediHelp globally</li>
-        <li>Exploring React Native / Expo</li>
+        <li>Implementing RAG & LLMs in HealthTech</li>
+        <li>Specializing in Agentic Workflows</li>
+        <li>Exploring Computer Vision for Medical Data</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -86,11 +86,11 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
     </td>
     <td align="center" width="25%">
-      <b>DevOps</b><br/><br/>
+      <b>AI & Cloud</b><br/><br/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
     </td>
   </tr>
 </table>
