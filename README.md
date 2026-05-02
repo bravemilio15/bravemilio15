@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=002147&height=250&section=header&text=Emilio%20Bravo&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Cloud%20%7C%20AI%20%7C%20Web%20%26%20Mobile&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=002147&height=250&section=header&text=Emilio%20Bravo&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Cloud%20%7C%20AI%20%7C%20Web%20/%20Mobile&descAlignY=55&descSize=20)
 
 <br/>
 
