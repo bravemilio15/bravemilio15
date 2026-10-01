@@ -1,0 +1,43 @@
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "15 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "assets/languages.json"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Banner
+        run: python scripts/banner.py --out assets
+
+      # METRICS_TOKEN is a personal access token, so private repositories count too.
+      # Without it the built-in GITHUB_TOKEN is used and only public repositories count.
+      - name: Stats and language cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/cards.py --user "${{ github.repository_owner }}" --out assets
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --staged --quiet || git commit -m "chore: refresh profile cards"
+          git push

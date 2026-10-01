@@ -1,0 +1,4 @@
+{
+  "_comment": "Languages hidden from the language card: notebooks, docs, build files, generated platform code, and the ones I only know at a basic level.",
+  "exclude": ["Jupyter Notebook", "TeX", "BibTeX Style", "ShaderLab", "HLSL", "CMake", "Batchfile", "PowerShell", "Shell", "VBScript", "Swift", "Objective-C", "Kotlin", "C", "C++", "C#", "Less", "SCSS"]
+}
