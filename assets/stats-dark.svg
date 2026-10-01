@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="459" height="209" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="38" font-size="17" font-weight="600" fill="#58a6ff">GitHub activity</text>
+<text x="24" y="92" font-size="26" font-weight="700" fill="#e6edf3">47</text>
+<text x="24" y="114" font-size="13" fill="#8b949e">Repositories</text>
+<text x="244" y="92" font-size="26" font-weight="700" fill="#e6edf3">464</text>
+<text x="244" y="114" font-size="13" fill="#8b949e">Commits (past year)</text>
+<text x="24" y="162" font-size="26" font-weight="700" fill="#e6edf3">520</text>
+<text x="24" y="184" font-size="13" fill="#8b949e">Contributions (past year)</text>
+<text x="244" y="162" font-size="26" font-weight="700" fill="#e6edf3">56</text>
+<text x="244" y="184" font-size="13" fill="#8b949e">Pull requests</text>
+</svg>
