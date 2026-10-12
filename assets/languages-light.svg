@@ -16,7 +16,7 @@
 <circle cx="29" cy="94" r="5" fill="#3178c6"/>
 <text x="42" y="98" font-size="13" fill="#24292f">TypeScript <tspan fill="#57606a">29.9%</tspan></text>
 <circle cx="249" cy="94" r="5" fill="#3572A5"/>
-<text x="262" y="98" font-size="13" fill="#24292f">Python <tspan fill="#57606a">20.2%</tspan></text>
+<text x="262" y="98" font-size="13" fill="#24292f">Python <tspan fill="#57606a">20.3%</tspan></text>
 <circle cx="29" cy="121" r="5" fill="#b07219"/>
 <text x="42" y="125" font-size="13" fill="#24292f">Java <tspan fill="#57606a">18.4%</tspan></text>
 <circle cx="249" cy="121" r="5" fill="#f1e05a"/>
